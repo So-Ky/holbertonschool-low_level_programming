@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#include <stdio.h>
+gcc -E -o "$CFILE"
