@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+a = 0;
+while (a < b0
+{
+printf("%d\n", a);
+a++;
+}
